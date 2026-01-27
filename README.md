@@ -20,17 +20,20 @@
 
 ---
 
-## 🛠 Skills  
-- 🌐 HTML  
-- 🎨 CSS  
-- ⚡ JavaScript (Learning)  
+## 🛠 Skills
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow?style=for-the-badge&logo=javascript)
 - GitHub & Portfolio Development  
 
 ---
 
-## 📞 Contact Me  
+## 🌐 Connect With Me
+
 - 📧 Email: sreesree41002@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/sreenath-pothineni-37a74a250  
+- 🐙 GitHub: https://github.com/sreenath630  
 
 ---
 
@@ -45,3 +48,7 @@
 - Become a Web Developer  
 - Get Internship & Job in IT field  
 - Build Professional Portfolio# Sreenath-Pothineni
+
+## 📊 GitHub Stats
+
+![Sreenath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreenath630&show_icons=true&theme=dark)
