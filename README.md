@@ -29,7 +29,7 @@
 ---
 
 ## 📷 My Photo  
-![My Photo](myphoto.jpg)
+![My Photo](profile.jpg)
 
 ---
 
