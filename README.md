@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Sreenath Pothineni  
 
+<p align="center">
+  <img src="profile.jpg" width="180" style="border-radius:50%">
+</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Hi+I'm+Sreenath+Pothineni;BCA+Student;Web+Developer+Learner)
+
 🎓 Currently pursuing BCA  
 💻 Frontend Web Developer (Beginner)  
 📍 Andhra Pradesh, India  
@@ -15,9 +20,9 @@
 ---
 
 ## 🛠 Skills  
-- HTML  
-- CSS  
-- Basic Web Designing  
+- 🌐 HTML  
+- 🎨 CSS  
+- ⚡ JavaScript (Learning)  
 - GitHub & Portfolio Development  
 
 ---
@@ -25,11 +30,6 @@
 ## 📞 Contact Me  
 - 📧 Email: sreesree41002@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/sreenath-pothineni-37a74a250  
-
----
-
-## 📷 My Photo  
-![My Photo](profile.jpg)
 
 ---
 
