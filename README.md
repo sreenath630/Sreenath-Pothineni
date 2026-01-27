@@ -1,11 +1,9 @@
 # 👋 Hi, I'm Sreenath Pothineni  
 
-<p align="center">
+<p align="left">
   <img src="profile.jpg" width="180" style="border-radius:50%">
 </p>
-<p align="center">
-  <img src="circle.png" width="180">
-</p>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Hi+I'm+Sreenath+Pothineni;BCA+Student;Web+Developer+Learner)
 
 🎓 Currently pursuing BCA  
