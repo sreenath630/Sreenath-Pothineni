@@ -1,4 +1,7 @@
+![Profile Views](https://komarev.com/ghpvc/?username=sreenath630&color=blue)
 # 👋 Hi, I'm Sreenath Pothineni  
+
+💻 BCA Student | Frontend Web Developer | Passionate about Web Technologies
 
 <p align="left">
   <img src="profile.jpg" width="180" style="border-radius:50%">
@@ -20,6 +23,12 @@
 
 ---
 
+## 🧑‍💼 Profile Summary
+
+Motivated BCA student with strong interest in Web Development.  
+Skilled in HTML and CSS, currently learning JavaScript.  
+Looking for internship and entry-level opportunities.
+
 ## 🛠 Skills
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,6 +37,14 @@
 - GitHub & Portfolio Development  
 
 ---
+
+## 💻 My Projects
+
+- 🌐 Personal Portfolio Website  
+- 🧮 Simple Calculator using HTML & CSS  
+- ✅ To-Do List Web App  
+
+👉 Project links coming soon
 
 ## 🌐 Connect With Me
 
