@@ -41,10 +41,16 @@ Looking for internship and entry-level opportunities.
 ## 💻 My Projects
 
 - 🌐 Personal Portfolio Website  
-- 🧮 Simple Calculator using HTML & CSS  
-- ✅ To-Do List Web App  
+  🔗 Live: https://sreenath630.github.io/my-portfolio/  
+  📂 Repo: https://github.com/sreenath630/my-portfolio  
 
-👉 Project links coming soon
+- 🧮 Simple Calculator Web App  
+  🔗 Live: https://sreenath630.github.io/calculator-project/  
+  📂 Repo: https://github.com/sreenath630/calculator-project  
+
+- ✅ To-Do List Web App  
+  🔗 Live: (add later)  
+  📂 Repo: (add later)
 
 ## 🌐 Connect With Me
 
