@@ -72,6 +72,6 @@ Looking for internship and entry-level opportunities.
 - Get Internship & Job in IT field  
 - Build Professional Portfolio# Sreenath-Pothineni
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
-![Sreenath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreenath630&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=sreenath630&theme=tokyonight)
