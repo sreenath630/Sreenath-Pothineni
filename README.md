@@ -49,8 +49,8 @@ Looking for internship and entry-level opportunities.
   📂 Repo: https://github.com/sreenath630/calculator-project  
 
 - ✅ To-Do List Web App  
-  🔗 Live: (add later)  
-  📂 Repo: (add later)
+  🔗 Live: https://sreenath630.github.io/To-do-list/
+  📂 Repo: https://github.com/sreenath630/To-do-list-project
 
 ## 🌐 Connect With Me
 
